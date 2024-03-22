@@ -1,0 +1,11 @@
+{
+    "name": "Chrome Extension(IPL)",
+    "version": "1.0.0",
+    "description": "Best extension for IPL scores in the world",
+    "manifest_version": 3,
+    "author": "Sambram Shetty",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "(IPL) Chrome Extension"
+    }
+}
